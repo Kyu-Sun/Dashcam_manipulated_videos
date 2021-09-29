@@ -17,7 +17,7 @@ object:
 
 Concomitant with the virtual ubiquity of dashcams in vehicles, the instantaneous speed of vehicles during accidents can now be measured using dashcam videos to understand the causes of such accidents. In this study, we estimated vehicle speeds using dashcam videos recorded in various road environments and analyzed them by comparing them to ground truth. We also considered various scenarios yielding retaken and re-encoded videos from additional recording devices, depending on the circumstances, wherein the original video can be manipulated in terms of playback speed and/or frames per second. The experimental results revealed that the actual and measured speeds were similar for most user-specific intervals. Moreover, the results suggest that our estimated speed is adequately valid as evidence, regardless of retake and re-encoding states. Furthermore, we adopted a statistical approach (i.e., Pearson's correlation coefficient analysis) to verify the proposed vehicle speed estimation method. The results showed that when playback speed was manipulated in re-encoded or retaken video, the proposed method consistently measured speeds at 99.99 % accuracy. This verified method will play an important role in deriving reliable results from various evidential video sources.
 
-A detailed description of the dataset is available in the journal paper "Vehicle Speed Measurement Methodology Robust to Playback Speed-Manipulated Video File", published on IEEE ACCESS, 2021. DOI: 10.1109/ACCESS.2021.3115500
+A detailed description of the data and method are available in the journal paper "Vehicle Speed Measurement Methodology Robust to Playback Speed-Manipulated Video File", published on IEEE ACCESS, 2021. DOI: 10.1109/ACCESS.2021.3115500
 
 
 ### Dataset
